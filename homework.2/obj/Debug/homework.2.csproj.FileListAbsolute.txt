@@ -1,0 +1,6 @@
+/Users/atacan/Projects/homework.2/homework.2/bin/Debug/homework.2.exe
+/Users/atacan/Projects/homework.2/homework.2/bin/Debug/homework.2.pdb
+/Users/atacan/Projects/homework.2/homework.2/obj/Debug/homework.2.exe
+/Users/atacan/Projects/homework.2/homework.2/obj/Debug/homework.2.pdb
+/Users/atacan/Projects/homework.2/homework.2/obj/Debug/homework.2.csproj.CoreCompileInputs.cache
+/Users/atacan/Projects/homework.2/homework.2/obj/Debug/homework.2.csproj.AssemblyReference.cache
